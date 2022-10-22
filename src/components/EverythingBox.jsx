@@ -7,7 +7,7 @@ const EverythingBox = ({getRandomAll,randomColor}) => {
     }
   return ( 
     
-     <button  style={backGC} className="card_button" onClick={getRandomAll} >&#62;</button>
+     <button  style={backGC} className="card_btn" onClick={getRandomAll} >&#62;</button>
   )
 }
 
